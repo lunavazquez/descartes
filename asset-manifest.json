@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/descartes/static/css/main.84f06434.chunk.css",
+    "main.js": "/descartes/static/js/main.56180d1c.chunk.js",
+    "main.js.map": "/descartes/static/js/main.56180d1c.chunk.js.map",
+    "runtime~main.js": "/descartes/static/js/runtime~main.827fc569.js",
+    "runtime~main.js.map": "/descartes/static/js/runtime~main.827fc569.js.map",
+    "static/js/2.c6481815.chunk.js": "/descartes/static/js/2.c6481815.chunk.js",
+    "static/js/2.c6481815.chunk.js.map": "/descartes/static/js/2.c6481815.chunk.js.map",
+    "index.html": "/descartes/index.html",
+    "precache-manifest.ecd9793055262fc7b3791768d7583563.js": "/descartes/precache-manifest.ecd9793055262fc7b3791768d7583563.js",
+    "service-worker.js": "/descartes/service-worker.js",
+    "static/css/main.84f06434.chunk.css.map": "/descartes/static/css/main.84f06434.chunk.css.map"
+  }
+}
